@@ -1,0 +1,1235 @@
+[
+ {
+  "id": "rgb-regeln",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "neon",
+  "bildtitel": "RGB richtig einsetzen: 5 Regeln",
+  "akzentwort": "RGB",
+  "punkte": [
+   "Maximal 2–3 Farben im ganzen Raum",
+   "Licht indirekt – nie direkt in die Augen",
+   "Eine Farbe als Hauptton, eine als Akzent",
+   "Helligkeit abends runterdrehen",
+   "Alles über eine App steuern"
+  ],
+  "titel": "RGB richtig einsetzen: 5 Regeln für ein stimmiges Gaming-Zimmer",
+  "beschreibung": "RGB Beleuchtung im Gaming Zimmer sieht nur dann richtig gut aus, wenn sie stimmig ist. Mit diesen 5 Regeln wird dein Setup nicht zur Disco: wenige Farben, indirektes Licht, eine Hauptfarbe mit Akzent, abends gedimmt und alles zentral per App steuerbar. Merk dir den Pin für dein nächstes LED-Upgrade!",
+  "keywords": [
+   "RGB Beleuchtung",
+   "Gaming Zimmer",
+   "LED Ideen",
+   "Gaming Setup"
+  ],
+  "alt": "Grafik mit 5 Regeln für RGB-Beleuchtung im Gaming-Zimmer"
+ },
+ {
+  "id": "konsolen-ecke",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "violet",
+  "bildtitel": "Konsolen-Ecke einrichten: 6 Ideen",
+  "akzentwort": "Konsolen-Ecke",
+  "punkte": [
+   "TV-Lowboard mit offenen Fächern",
+   "Controller an die Wand hängen",
+   "Spiele-Hüllen im Regal sortieren",
+   "LED-Streifen hinter dem Fernseher",
+   "Bequemer Sitzsack oder Gaming-Sessel",
+   "Ladestation griffbereit"
+  ],
+  "titel": "Konsolen-Ecke einrichten: 6 Ideen für PlayStation, Xbox & Switch",
+  "beschreibung": "Konsolen Ecke einrichten leicht gemacht: Ein Lowboard mit offenen Fächern, Controller an der Wand, Spiele ordentlich im Regal, LED-Streifen hinter dem Fernseher, ein bequemer Sitzplatz und eine Ladestation griffbereit. So wird aus jeder Zimmerecke ein gemütlicher Gaming-Platz. Jetzt merken!",
+  "keywords": [
+   "Konsolen Ecke",
+   "Gaming Setup",
+   "PlayStation Setup",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 6 Ideen für eine Konsolen-Ecke im Gaming-Zimmer"
+ },
+ {
+  "id": "wandgestaltung",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "pink",
+  "bildtitel": "Wandgestaltung im Gaming-Zimmer: 6 Ideen",
+  "akzentwort": "Wandgestaltung",
+  "punkte": [
+   "Akzentwand in Dunkelblau oder Anthrazit",
+   "Bilderwand mit gerahmten Postern",
+   "Hexagon-Lichter als Hingucker",
+   "Schweberegal für Figuren",
+   "Wandtattoo mit Gaming-Motiv",
+   "Holzpaneele für warmen Look"
+  ],
+  "titel": "Wandgestaltung im Gaming-Zimmer: 6 Ideen für mehr Wow-Effekt",
+  "beschreibung": "Wandgestaltung fürs Gaming Zimmer: Eine dunkle Akzentwand, eine Bilderwand mit gerahmten Postern, Hexagon-Lichter, ein Schweberegal für Figuren, ein Wandtattoo oder Holzpaneele – mit diesen 6 Ideen bekommt dein Zockerzimmer Charakter. Speicher dir den Pin für deine nächste Renovierung!",
+  "keywords": [
+   "Wandgestaltung",
+   "Gaming Zimmer Deko",
+   "Zimmer Ideen",
+   "Wand Deko"
+  ],
+  "alt": "Grafik mit 6 Ideen für die Wandgestaltung im Gaming-Zimmer"
+ },
+ {
+  "id": "schreibtisch-upgrades",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "cyan",
+  "bildtitel": "7 Schreibtisch-Upgrades, die sich lohnen",
+  "akzentwort": "Schreibtisch-Upgrades",
+  "punkte": [
+   "Monitorarm für mehr Platz",
+   "Großes Schreibtisch-Pad",
+   "Kabelwanne unter der Platte",
+   "Headset-Halter zum Anklemmen",
+   "Monitor-Lichtleiste",
+   "Getränkehalter am Tischrand",
+   "Kleiner Organizer für Kleinkram"
+  ],
+  "titel": "7 Schreibtisch-Upgrades, die sich für jedes Gaming-Setup lohnen",
+  "beschreibung": "Schreibtisch Upgrades mit großer Wirkung: Monitorarm, großes Schreibtisch-Pad, Kabelwanne unter der Platte, Headset-Halter, Monitor-Lichtleiste, Getränkehalter und ein kleiner Organizer. Mit diesen 7 Ideen wird dein Gaming- und Arbeitsplatz aufgeräumter und gemütlicher. Merk dir die Liste!",
+  "keywords": [
+   "Schreibtisch Upgrade",
+   "Gaming Schreibtisch",
+   "Schreibtisch Organisation",
+   "Setup Ideen"
+  ],
+  "alt": "Grafik mit 7 lohnenden Upgrades für den Gaming-Schreibtisch"
+ },
+ {
+  "id": "lichtfarben-wirkung",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "violet",
+  "bildtitel": "Welche Lichtfarbe passt zu dir?",
+  "akzentwort": "Lichtfarbe",
+  "farben": [
+   {
+    "name": "Blau",
+    "text": "Ruhig und fokussiert – gut für lange Sessions",
+    "farben": [
+     [
+      30,
+      80,
+      255
+     ],
+     [
+      90,
+      160,
+      255
+     ],
+     [
+      15,
+      25,
+      60
+     ]
+    ]
+   },
+   {
+    "name": "Lila",
+    "text": "Der typische Gaming-Vibe, kreativ und modern",
+    "farben": [
+     [
+      140,
+      60,
+      230
+     ],
+     [
+      200,
+      110,
+      255
+     ],
+     [
+      35,
+      20,
+      60
+     ]
+    ]
+   },
+   {
+    "name": "Rot",
+    "text": "Energie pur – perfekt für Shooter-Abende",
+    "farben": [
+     [
+      230,
+      30,
+      50
+     ],
+     [
+      255,
+      100,
+      90
+     ],
+     [
+      50,
+      12,
+      18
+     ]
+    ]
+   },
+   {
+    "name": "Grün",
+    "text": "Entspannt und frisch, wirkt angenehm natürlich",
+    "farben": [
+     [
+      40,
+      200,
+      110
+     ],
+     [
+      130,
+      255,
+      170
+     ],
+     [
+      12,
+      45,
+      28
+     ]
+    ]
+   },
+   {
+    "name": "Warmweiß",
+    "text": "Gemütlich – ideal für abends und zum Runterkommen",
+    "farben": [
+     [
+      255,
+      190,
+      110
+     ],
+     [
+      255,
+      225,
+      170
+     ],
+     [
+      60,
+      40,
+      20
+     ]
+    ]
+   }
+  ],
+  "titel": "Welche Lichtfarbe passt zu dir? So wirken LED-Farben im Gaming-Zimmer",
+  "beschreibung": "LED Farben und ihre Wirkung: Blau wirkt ruhig und fokussiert, Lila bringt den typischen Gaming-Vibe, Rot sorgt für Energie, Grün wirkt entspannt und Warmweiß macht dein Zimmer abends gemütlich. Finde die passende Lichtfarbe für dein Setup – und merk dir den Pin für deine LED-Planung!",
+  "keywords": [
+   "LED Farben",
+   "Lichtfarbe",
+   "Gaming Beleuchtung",
+   "RGB Ideen"
+  ],
+  "alt": "Farbübersicht: Wirkung von fünf LED-Lichtfarben im Gaming-Zimmer"
+ },
+ {
+  "id": "weihnachten-deko",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "warm",
+  "bildtitel": "Gaming-Zimmer weihnachtlich dekorieren: 6 Ideen",
+  "akzentwort": "weihnachtlich",
+  "punkte": [
+   "LED-Farbe auf Rot-Grün oder Warmweiß stellen",
+   "Lichterkette ums Regal wickeln",
+   "Mini-Weihnachtsbaum auf den Schreibtisch",
+   "Weihnachtliches Wallpaper auf den Monitor",
+   "Kuschelige Decke in Rot",
+   "Controller mit Schleife als Deko"
+  ],
+  "titel": "Gaming-Zimmer weihnachtlich dekorieren: 6 schnelle Ideen",
+  "beschreibung": "Weihnachtsdeko fürs Gaming Zimmer: LED-Farben auf Rot-Grün oder Warmweiß stellen, eine Lichterkette ums Regal, ein Mini-Weihnachtsbaum auf dem Schreibtisch, ein festliches Wallpaper, eine kuschelige Decke und ein Controller mit Schleife. So kommt dein Zockerzimmer in Weihnachtsstimmung. Jetzt merken!",
+  "keywords": [
+   "Weihnachtsdeko",
+   "Gaming Zimmer Deko",
+   "Weihnachten Zimmer",
+   "Zockerzimmer"
+  ],
+  "alt": "Grafik mit 6 Ideen für weihnachtliche Deko im Gaming-Zimmer"
+ },
+ {
+  "id": "monitor-anzahl",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "cyan",
+  "bildtitel": "1, 2 oder 3 Monitore? So findest du's raus",
+  "akzentwort": "Monitore?",
+  "punkte": [
+   "1 Monitor: reicht fürs reine Zocken",
+   "2 Monitore: Spiel plus Discord oder Guide",
+   "3 Monitore: für Streamer und Simulationen",
+   "Ultrawide statt zwei Bildschirme spart Platz",
+   "Monitorarm macht jedes Setup flexibel"
+  ],
+  "titel": "1, 2 oder 3 Monitore? So findest du das passende Gaming-Setup",
+  "beschreibung": "Wie viele Monitore brauchst du wirklich? Ein Monitor reicht fürs reine Zocken, zwei sind ideal für Spiel plus Discord oder Guides, drei lohnen sich für Streamer und Simulationen. Ein Ultrawide-Monitor spart Platz, und ein Monitorarm macht jedes Setup flexibel. Merk dir den Pin für dein nächstes Upgrade!",
+  "keywords": [
+   "Dual Monitor Setup",
+   "Gaming Setup",
+   "Monitor Setup",
+   "PC Setup"
+  ],
+  "alt": "Grafik zur Frage, ob ein, zwei oder drei Monitore fürs Gaming-Setup sinnvoll sind"
+ },
+ {
+  "id": "streaming-ecke",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "pink",
+  "bildtitel": "Streaming-Ecke einrichten: 6 Tipps",
+  "akzentwort": "Streaming-Ecke",
+  "punkte": [
+   "Ordentlicher Hintergrund mit Deko und Licht",
+   "Softes Licht von vorne aufs Gesicht",
+   "Mikrofonarm statt Tischmikrofon",
+   "Kamera auf Augenhöhe",
+   "Akustikpaneele gegen Hall",
+   "Zweiter Bildschirm für den Chat"
+  ],
+  "titel": "Streaming-Ecke einrichten: 6 Tipps für einen professionellen Look",
+  "beschreibung": "Streaming Setup einrichten: Ein aufgeräumter Hintergrund mit Deko und LED-Licht, weiches Licht von vorne, ein Mikrofonarm, die Kamera auf Augenhöhe, Akustikpaneele gegen Hall und ein zweiter Bildschirm für den Chat. Mit diesen 6 Tipps sieht dein Stream gleich viel professioneller aus. Jetzt merken!",
+  "keywords": [
+   "Streaming Setup",
+   "Twitch Setup",
+   "Gaming Setup",
+   "Streamer Zimmer"
+  ],
+  "alt": "Grafik mit 6 Tipps für eine Streaming-Ecke im Gaming-Zimmer"
+ },
+ {
+  "id": "controller-spiele-ordnung",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "violet",
+  "bildtitel": "Ordnung für Controller, Spiele & Kabel",
+  "akzentwort": "Ordnung",
+  "punkte": [
+   "Controller-Halter an Wand oder Tisch",
+   "Spiele senkrecht im Regal wie Bücher",
+   "Ladestation für alle Controller",
+   "Kabelboxen für Steckdosenleisten",
+   "Beschriftete Boxen für Zubehör",
+   "Headset an einen festen Haken"
+  ],
+  "titel": "Ordnung für Controller, Spiele & Kabel: 6 einfache Ideen",
+  "beschreibung": "Gaming Zubehör ordentlich aufbewahren: Controller-Halter an Wand oder Tisch, Spiele senkrecht im Regal, eine Ladestation für alle Controller, Kabelboxen für Steckdosenleisten, beschriftete Boxen für Zubehör und ein fester Haken fürs Headset. So hast du alles griffbereit und dein Zimmer bleibt aufgeräumt. Jetzt merken!",
+  "keywords": [
+   "Gaming Ordnung",
+   "Controller Aufbewahrung",
+   "Kabelmanagement",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 6 Ideen für Ordnung bei Controllern, Spielen und Kabeln"
+ },
+ {
+  "id": "akustik",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "cyan",
+  "bildtitel": "Hallt dein Zimmer? 5 Tipps für besseren Klang",
+  "akzentwort": "Klang",
+  "punkte": [
+   "Großer Teppich auf dem Boden",
+   "Dicke Vorhänge am Fenster",
+   "Akustikpaneele hinter dem Schreibtisch",
+   "Volles Bücherregal als Schallbrecher",
+   "Kissen, Decken und Polstermöbel"
+  ],
+  "titel": "Hallt dein Zimmer? 5 Tipps für besseren Klang beim Zocken & Streamen",
+  "beschreibung": "Raumakustik im Gaming Zimmer verbessern: Ein großer Teppich, dicke Vorhänge, Akustikpaneele hinter dem Schreibtisch, ein volles Bücherregal und weiche Polster schlucken den Hall. So klingt dein Mikrofon im Voice-Chat und Stream deutlich besser. Merk dir die Tipps!",
+  "keywords": [
+   "Raumakustik",
+   "Akustikpaneele",
+   "Gaming Zimmer",
+   "Streaming Tipps"
+  ],
+  "alt": "Grafik mit 5 Tipps gegen Hall im Gaming-Zimmer"
+ },
+ {
+  "id": "kleine-upgrades",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "neon",
+  "bildtitel": "7 kleine Upgrades mit großer Wirkung",
+  "akzentwort": "großer Wirkung",
+  "punkte": [
+   "Neue Keycaps für die Tastatur",
+   "Großes Mauspad im Lieblingsdesign",
+   "LED-Streifen hinter dem Monitor",
+   "Kabel bündeln und verstecken",
+   "Ein Poster oder Neon-Schild",
+   "Pflanze für etwas Grün",
+   "Fußstütze für mehr Komfort"
+  ],
+  "titel": "7 kleine Setup-Upgrades mit großer Wirkung",
+  "beschreibung": "Gaming Setup verbessern ohne großen Aufwand: Neue Keycaps, ein großes Mauspad, LED-Streifen hinter dem Monitor, versteckte Kabel, ein Poster oder Neon-Schild, eine Pflanze und eine Fußstütze. Diese 7 kleinen Upgrades machen dein Setup sofort schöner und gemütlicher. Jetzt merken!",
+  "keywords": [
+   "Setup Upgrade",
+   "Gaming Setup Ideen",
+   "Gaming Zimmer",
+   "Schreibtisch Setup"
+  ],
+  "alt": "Grafik mit 7 kleinen Upgrades für das Gaming-Setup"
+ },
+ {
+  "id": "setup-fehler",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "pink",
+  "bildtitel": "6 Setup-Fehler, die du vermeiden solltest",
+  "akzentwort": "Setup-Fehler,",
+  "punkte": [
+   "Monitor zu hoch oder zu tief",
+   "Zu viele LED-Farben auf einmal",
+   "Kabelsalat sichtbar hinter dem Tisch",
+   "PC ohne Platz zum Atmen",
+   "Zocken im komplett dunklen Raum",
+   "Stuhl ohne richtige Einstellung"
+  ],
+  "titel": "6 Gaming-Setup-Fehler, die fast jeder macht – und wie du sie vermeidest",
+  "beschreibung": "Häufige Fehler beim Gaming Setup: Der Monitor steht zu hoch oder zu tief, zu viele LED-Farben machen das Zimmer unruhig, Kabelsalat ist sichtbar, der PC bekommt keine Luft, es wird im Dunkeln gespielt und der Stuhl ist falsch eingestellt. Check dein Setup mit dieser Liste – und merk sie dir!",
+  "keywords": [
+   "Gaming Setup",
+   "Setup Tipps",
+   "Gaming Zimmer",
+   "Ergonomie"
+  ],
+  "alt": "Grafik mit 6 häufigen Fehlern beim Gaming-Setup"
+ },
+ {
+  "id": "pflanzen",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "cyan",
+  "bildtitel": "5 pflegeleichte Pflanzen fürs Gaming-Zimmer",
+  "akzentwort": "Pflanzen",
+  "punkte": [
+   "Bogenhanf – kommt mit wenig Licht klar",
+   "ZZ-Pflanze – fast unkaputtbar",
+   "Efeutute – schön als Hängepflanze",
+   "Grünlilie – wächst schnell und robust",
+   "Kakteen – perfekt für den Schreibtisch"
+  ],
+  "titel": "5 pflegeleichte Pflanzen fürs Gaming-Zimmer – auch für wenig Licht",
+  "beschreibung": "Pflanzen fürs Gaming Zimmer, die kaum Pflege brauchen: Bogenhanf und ZZ-Pflanze kommen mit wenig Licht klar, die Efeutute macht sich toll als Hängepflanze, die Grünlilie ist robust und Kakteen passen auf jeden Schreibtisch. So bringst du etwas Grün in dein Zockerzimmer. Jetzt merken!",
+  "keywords": [
+   "Pflanzen Zimmer",
+   "pflegeleichte Pflanzen",
+   "Gaming Zimmer Deko",
+   "Zimmerpflanzen"
+  ],
+  "alt": "Grafik mit 5 pflegeleichten Pflanzen für das Gaming-Zimmer"
+ },
+ {
+  "id": "led-anbringen",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "warm",
+  "bildtitel": "LED-Streifen anbringen: 6 Tipps",
+  "akzentwort": "LED-Streifen",
+  "punkte": [
+   "Fläche vorher fettfrei reinigen",
+   "Länge genau ausmessen",
+   "Ecken mit Verbindern statt Knicken",
+   "Netzteil und Kabel verstecken",
+   "Alu-Profil für weicheres Licht",
+   "Erst testen, dann festkleben"
+  ],
+  "titel": "LED-Streifen richtig anbringen: 6 Tipps, damit nichts abfällt",
+  "beschreibung": "LED Streifen anbringen wie ein Profi: Fläche vorher fettfrei reinigen, Länge genau ausmessen, Ecken mit Verbindern statt Knicken, Netzteil und Kabel verstecken, ein Alu-Profil für weicheres Licht nutzen und erst testen, dann festkleben. So hält deine Beleuchtung und sieht sauber aus. Jetzt merken!",
+  "keywords": [
+   "LED Streifen",
+   "LED anbringen",
+   "Gaming Beleuchtung",
+   "DIY Zimmer"
+  ],
+  "alt": "Grafik mit 6 Tipps zum Anbringen von LED-Streifen"
+ },
+ {
+  "id": "winterabende",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "warm",
+  "bildtitel": "Gemütliche Winterabende im Zockerzimmer",
+  "akzentwort": "Winterabende",
+  "punkte": [
+   "Warmweißes Licht statt kalter Töne",
+   "Kuscheldecke über dem Gaming-Stuhl",
+   "Teppich gegen kalte Füße",
+   "Lichterkette am Fenster",
+   "Becherhalter für Tee oder Kakao",
+   "Couch-Ecke für Koop-Abende"
+  ],
+  "titel": "Gemütliche Winterabende im Zockerzimmer: 6 Ideen",
+  "beschreibung": "Zockerzimmer im Winter gemütlich machen: Warmweißes Licht, eine Kuscheldecke über dem Gaming-Stuhl, ein Teppich gegen kalte Füße, eine Lichterkette am Fenster, ein Becherhalter für Tee oder Kakao und eine Couch-Ecke für Koop-Abende mit Freunden. Perfekt für lange Winterabende. Jetzt merken!",
+  "keywords": [
+   "gemütliches Zimmer",
+   "Winter Deko",
+   "Zockerzimmer",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 6 Ideen für gemütliche Winterabende im Gaming-Zimmer"
+ },
+ {
+  "id": "budget-setup",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "neon",
+  "bildtitel": "Gaming-Setup mit kleinem Budget: 6 Tipps",
+  "akzentwort": "kleinem Budget:",
+  "punkte": [
+   "Erst Stuhl und Monitor, dann Deko",
+   "Gebraucht kaufen spart viel Geld",
+   "LED-Streifen statt teurer Lampen",
+   "Kabelmanagement kostet fast nichts",
+   "Poster statt teurer Wandbilder",
+   "Schritt für Schritt aufrüsten"
+  ],
+  "titel": "Gaming-Setup mit kleinem Budget: 6 Tipps zum Sparen",
+  "beschreibung": "Gaming Setup günstig einrichten: Zuerst in Stuhl und Monitor investieren, gebraucht kaufen, LED-Streifen statt teurer Lampen nutzen, Kabel kostenlos ordnen, Poster statt teurer Wandbilder aufhängen und Schritt für Schritt aufrüsten. So bekommst du ein tolles Setup, ohne dein Konto zu sprengen. Jetzt merken!",
+  "keywords": [
+   "Gaming Setup günstig",
+   "Budget Setup",
+   "Gaming Zimmer",
+   "Setup Ideen"
+  ],
+  "alt": "Grafik mit 6 Spartipps für ein Gaming-Setup mit kleinem Budget"
+ },
+ {
+  "id": "couch-gaming",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "violet",
+  "bildtitel": "Couch-Gaming-Ecke: 5 Ideen für Koop-Abende",
+  "akzentwort": "Couch-Gaming-Ecke:",
+  "punkte": [
+   "Kleines Sofa oder zwei Sitzsäcke",
+   "Beistelltisch für Snacks und Getränke",
+   "Zweiter Controller immer geladen",
+   "Indirektes Licht hinter dem TV",
+   "Decken und Kissen griffbereit"
+  ],
+  "titel": "Couch-Gaming-Ecke einrichten: 5 Ideen für perfekte Koop-Abende",
+  "beschreibung": "Couch Gaming Ecke einrichten: Ein kleines Sofa oder zwei Sitzsäcke, ein Beistelltisch für Snacks, ein zweiter Controller immer geladen, indirektes Licht hinter dem Fernseher und Decken griffbereit. So werden Koop-Abende mit Freunden richtig gemütlich. Jetzt merken!",
+  "keywords": [
+   "Couch Gaming",
+   "Gaming Ecke",
+   "Koop Spiele",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 5 Ideen für eine Couch-Gaming-Ecke"
+ },
+ {
+  "id": "schreibtisch-wahl",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "pink",
+  "bildtitel": "Den richtigen Gaming-Schreibtisch finden",
+  "akzentwort": "Gaming-Schreibtisch",
+  "punkte": [
+   "Genug Tiefe für Abstand zum Monitor",
+   "Breite passend zu Monitoren und Boxen",
+   "Höhenverstellbar für Sitzen und Stehen",
+   "Stabil, damit nichts wackelt",
+   "Kabeldurchlass oder Kabelwanne",
+   "Eckschreibtisch für kleine Räume"
+  ],
+  "titel": "Den richtigen Gaming-Schreibtisch finden: 6 Punkte, auf die es ankommt",
+  "beschreibung": "Gaming Schreibtisch kaufen – darauf solltest du achten: genug Tiefe für Abstand zum Monitor, passende Breite für Bildschirme und Boxen, Höhenverstellung, Stabilität, ein Kabeldurchlass oder eine Kabelwanne und ein Eckschreibtisch für kleine Räume. Mit dieser Checkliste findest du den passenden Tisch. Jetzt merken!",
+  "keywords": [
+   "Gaming Schreibtisch",
+   "Schreibtisch kaufen",
+   "Gaming Setup",
+   "Schreibtisch Ideen"
+  ],
+  "alt": "Checkliste mit 6 Punkten für die Wahl eines Gaming-Schreibtischs"
+ },
+ {
+  "id": "bias-lighting",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "cyan",
+  "bildtitel": "Licht hinter dem Monitor: 5 Tipps",
+  "akzentwort": "Monitor:",
+  "titel": "Licht hinter dem Monitor: 5 Tipps für entspannteres Zocken am Abend",
+  "beschreibung": "Bias Lighting erklärt: Ein LED-Streifen hinter dem Monitor sorgt für weicheren Kontrast, wenn du abends zockst. Weiß oder Warmweiß passt zu Filmen, ein USB-Streifen braucht kein extra Netzteil, und mit etwas Abstand zum Rand und niedriger Helligkeit wirkt das Licht am schönsten. Jetzt merken!",
+  "keywords": [
+   "Bias Lighting",
+   "Monitor Beleuchtung",
+   "LED hinter Monitor",
+   "Gaming Setup"
+  ],
+  "alt": "Grafik mit 5 Tipps für Licht hinter dem Monitor",
+  "punkte": [
+   "Weicherer Kontrast beim Zocken im Dunkeln",
+   "Weiß oder Warmweiß für Filme und Serien",
+   "USB-Streifen ohne extra Netzteil",
+   "Ein paar Zentimeter vom Rand kleben",
+   "Helligkeit lieber niedrig halten"
+  ]
+ },
+ {
+  "id": "neon-schild",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "pink",
+  "bildtitel": "Neon-Schild fürs Zimmer: 5 Ideen",
+  "akzentwort": "Neon-Schild",
+  "titel": "Neon-Schild fürs Gaming-Zimmer: 5 Ideen für den perfekten Hingucker",
+  "beschreibung": "Neon Schild Ideen fürs Gaming Zimmer: Dein Gamertag als Schriftzug, ein Controller-Symbol über dem Schreibtisch, ein Lieblingsspruch, ein Pixel-Herz im Retro-Look oder ein Blitz als Logo. Ein LED-Neon-Schild macht jede Wand zum Highlight und sieht auch im Stream super aus. Jetzt merken!",
+  "keywords": [
+   "Neon Schild",
+   "LED Neon",
+   "Gaming Zimmer Deko",
+   "Gamer Zimmer"
+  ],
+  "alt": "Grafik mit 5 Ideen für Neon-Schilder im Gaming-Zimmer",
+  "punkte": [
+   "Dein Gamertag als Schriftzug",
+   "Controller-Symbol über dem Schreibtisch",
+   "Lieblingsspruch aus deinem Spiel",
+   "Pixel-Herz im Retro-Look",
+   "Blitz oder Welle als Logo-Look"
+  ]
+ },
+ {
+  "id": "smarte-beleuchtung",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "violet",
+  "bildtitel": "Smarte Beleuchtung: 6 coole Funktionen",
+  "akzentwort": "Smarte",
+  "titel": "Smarte Beleuchtung im Gaming-Zimmer: 6 Funktionen, die richtig Spaß machen",
+  "beschreibung": "Smarte LED Beleuchtung kann mehr als bunt leuchten: Licht-Szenen per App, Steuerung per Sprachbefehl, sanftes Wecklicht, Musik-Sync für Partys, ein Einschlaf-Timer und Licht, das sich dem Bildschirm anpasst. So holst du das Maximum aus deinem Gaming-Zimmer heraus. Jetzt merken!",
+  "keywords": [
+   "Smart Home Licht",
+   "Smarte Beleuchtung",
+   "LED App",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 6 Funktionen smarter Beleuchtung im Gaming-Zimmer",
+  "punkte": [
+   "Licht-Szenen per App speichern",
+   "Licht per Sprachbefehl steuern",
+   "Sanftes Wecklicht am Morgen",
+   "Musik-Sync für Partyabende",
+   "Einschlaf-Timer am Abend",
+   "Licht passend zum Bildschirm"
+  ]
+ },
+ {
+  "id": "statt-deckenlicht",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "warm",
+  "bildtitel": "Raus mit dem Deckenlicht! 5 bessere Ideen",
+  "akzentwort": "Deckenlicht!",
+  "titel": "Raus mit dem Deckenlicht! 5 bessere Lichtquellen fürs Gaming-Zimmer",
+  "beschreibung": "Grelles Deckenlicht zerstört jede Atmosphäre. Besser: eine Stehlampe mit Farbwechsel, eine LED-Leiste entlang der Decke, Wandlichter neben dem Bett, eine Lichterkette am Regal und eine Schreibtischlampe zum Arbeiten. So wird dein Zimmer abends gemütlich und trotzdem hell genug. Jetzt merken!",
+  "keywords": [
+   "Zimmer Beleuchtung",
+   "indirektes Licht",
+   "Gaming Zimmer",
+   "Lampen Ideen"
+  ],
+  "alt": "Grafik mit 5 Alternativen zum Deckenlicht im Gaming-Zimmer",
+  "punkte": [
+   "Stehlampe mit Farbwechsel",
+   "LED-Leiste entlang der Decke",
+   "Wandlichter neben dem Bett",
+   "Lichterkette am Regal",
+   "Schreibtischlampe zum Arbeiten"
+  ]
+ },
+ {
+  "id": "led-dachschraege",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "neon",
+  "bildtitel": "LED-Ideen für Zimmer mit Dachschräge",
+  "akzentwort": "Dachschräge",
+  "titel": "LED-Ideen für Zimmer mit Dachschräge: 5 Wege für tolles Licht",
+  "beschreibung": "Beleuchtung für Zimmer mit Dachschräge: LED-Streifen entlang der Schräge, eine Lichtleiste am Kniestock, Spots in den Dachbalken, eine Lichterkette ums Dachfenster und indirektes Licht hinter dem Bett. So wird dein Dachzimmer zum gemütlichen Gaming-Zimmer. Jetzt merken!",
+  "keywords": [
+   "Dachschräge Beleuchtung",
+   "LED Dachschräge",
+   "Dachzimmer",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 5 LED-Ideen für Zimmer mit Dachschräge",
+  "punkte": [
+   "LED-Streifen entlang der Schräge",
+   "Lichtleiste am Kniestock",
+   "Spots in den Dachbalken",
+   "Lichterkette ums Dachfenster",
+   "Indirektes Licht hinter dem Bett"
+  ]
+ },
+ {
+  "id": "licht-zonen",
+  "etikett": "LED & Licht",
+  "pinnwand": "LED Beleuchtung Gaming Zimmer",
+  "akzent": "cyan",
+  "bildtitel": "Licht in Zonen: Zocken, Lernen, Schlafen",
+  "akzentwort": "Zonen:",
+  "titel": "Licht in Zonen planen: So passt die Beleuchtung zum Zocken, Lernen und Schlafen",
+  "beschreibung": "Ein Zimmer, viele Aufgaben: Plane dein Licht in Zonen. Buntes Licht hinter dem Monitor zum Zocken, helles neutralweißes Licht zum Lernen, warmes gedimmtes Licht zum Schlafen und eine Lichterkette zum Chillen. Mit gespeicherten Szenen wechselst du per Knopfdruck. Jetzt merken!",
+  "keywords": [
+   "Licht Zonen",
+   "Zimmer Beleuchtung",
+   "Gaming Zimmer",
+   "Lernen und Zocken"
+  ],
+  "alt": "Grafik zur Lichtplanung in Zonen für Zocken, Lernen und Schlafen",
+  "punkte": [
+   "Zocken: buntes Licht hinter dem Monitor",
+   "Lernen: helles neutralweißes Licht",
+   "Schlafen: warmes, stark gedimmtes Licht",
+   "Chillen: Lichterkette als Ambiente",
+   "Szenen per Knopfdruck wechseln"
+  ]
+ },
+ {
+  "id": "pc-ecke",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "violet",
+  "bildtitel": "PC-Setup in der Ecke: 5 Ideen",
+  "akzentwort": "Ecke:",
+  "titel": "PC-Setup in der Ecke: 5 Ideen für kleine Zimmer",
+  "beschreibung": "Gaming Setup in der Zimmerecke: Ein Eckschreibtisch nutzt den Platz voll aus, der Monitor steht schräg in der Ecke, ein Regal darüber trägt Deko, der PC steht auf einem Rollbrett unter dem Tisch und eine helle Wand lässt alles größer wirken. Perfekt für kleine Zimmer. Jetzt merken!",
+  "keywords": [
+   "Eck Setup",
+   "Gaming Ecke",
+   "kleines Zimmer",
+   "PC Setup"
+  ],
+  "alt": "Grafik mit 5 Ideen für ein PC-Setup in der Zimmerecke",
+  "punkte": [
+   "Eckschreibtisch nutzt den Platz voll aus",
+   "Monitor schräg in die Ecke stellen",
+   "Regal über dem Tisch für Deko",
+   "PC auf Rollbrett unter dem Tisch",
+   "Helle Wand lässt die Ecke größer wirken"
+  ]
+ },
+ {
+  "id": "ergonomie",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "cyan",
+  "bildtitel": "Gesund zocken: 6 Ergonomie-Tipps",
+  "akzentwort": "Ergonomie-Tipps",
+  "titel": "Gesund zocken: 6 Ergonomie-Tipps für lange Gaming-Sessions",
+  "beschreibung": "Ergonomie beim Gaming: Die Monitor-Oberkante etwa auf Augenhöhe, rund eine Armlänge Abstand zum Bildschirm, Unterarme locker auf dem Tisch, Füße flach auf dem Boden, die Rückenlehne nutzen und jede Stunde kurz aufstehen. So bleibt dein Rücken auch nach langen Sessions entspannt. Jetzt merken!",
+  "keywords": [
+   "Ergonomie",
+   "gesund zocken",
+   "Gaming Stuhl",
+   "Gaming Setup"
+  ],
+  "alt": "Grafik mit 6 Ergonomie-Tipps fürs Zocken",
+  "punkte": [
+   "Monitor-Oberkante etwa auf Augenhöhe",
+   "Etwa eine Armlänge Abstand zum Bildschirm",
+   "Unterarme locker auf dem Tisch",
+   "Füße flach auf dem Boden",
+   "Rückenlehne wirklich benutzen",
+   "Jede Stunde kurz aufstehen"
+  ]
+ },
+ {
+  "id": "neuer-pc",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "neon",
+  "bildtitel": "Neuer PC? Diese 6 Dinge zuerst!",
+  "akzentwort": "Neuer PC?",
+  "titel": "Neuer Gaming-PC? Diese 6 Dinge solltest du zuerst erledigen",
+  "beschreibung": "Neuer Gaming PC – was jetzt? Zuerst Treiber und Windows aktualisieren, die Bildwiederholrate des Monitors richtig einstellen, Kabel direkt ordentlich verlegen, den Luftstrom der Lüfter prüfen, ein Backup einrichten und deine Launcher installieren. So startest du ohne Probleme. Jetzt merken!",
+  "keywords": [
+   "Gaming PC",
+   "PC Setup",
+   "neuer PC Tipps",
+   "Gaming Setup"
+  ],
+  "alt": "Checkliste mit 6 ersten Schritten für einen neuen Gaming-PC",
+  "punkte": [
+   "Treiber und Windows aktualisieren",
+   "Bildwiederholrate des Monitors einstellen",
+   "Kabel direkt ordentlich verlegen",
+   "Luftstrom der Lüfter prüfen",
+   "Backup und Wiederherstellung einrichten",
+   "Lieblings-Apps und Launcher installieren"
+  ]
+ },
+ {
+  "id": "minimal-setup",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "cyan",
+  "bildtitel": "Minimalistisches Gaming-Setup: 6 Ideen",
+  "akzentwort": "Minimalistisches",
+  "titel": "Minimalistisches Gaming-Setup: 6 Ideen für einen cleanen Look",
+  "beschreibung": "Clean Gaming Setup: Nur das Nötigste auf dem Tisch, kabellose Maus und Tastatur, wenige Farben, ein Monitorarm für freie Fläche, komplett unsichtbare Kabel und ein einziges Deko-Highlight. Weniger ist mehr – so sieht dein Setup ruhig, modern und aufgeräumt aus. Jetzt merken!",
+  "keywords": [
+   "Minimalist Setup",
+   "Clean Setup",
+   "Gaming Setup Ideen",
+   "Schreibtisch Setup"
+  ],
+  "alt": "Grafik mit 6 Ideen für ein minimalistisches Gaming-Setup",
+  "punkte": [
+   "Nur das Nötigste auf dem Tisch",
+   "Kabellose Maus und Tastatur",
+   "Zwei bis drei Farben, mehr nicht",
+   "Monitorarm für freie Fläche",
+   "Kabel komplett unsichtbar",
+   "Ein einziges Deko-Highlight"
+  ]
+ },
+ {
+  "id": "weisses-setup",
+  "etikett": "Gaming Setup",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "pink",
+  "bildtitel": "Weißes Gaming-Setup: So wird's stimmig",
+  "akzentwort": "Weißes",
+  "titel": "Weißes Gaming-Setup: 6 Tipps für einen hellen, stimmigen Look",
+  "beschreibung": "White Gaming Setup Ideen: Ein weißer Tisch als Basis, Maus, Tastatur und Headset in Weiß, Holz und Pflanzen als Kontrast, warmes Licht, weiße oder versteckte Kabel und Lila oder Pink als Akzentfarbe. So wirkt dein Setup hell, modern und richtig stimmig. Jetzt merken!",
+  "keywords": [
+   "weißes Setup",
+   "White Setup",
+   "Gaming Setup",
+   "Setup Inspiration"
+  ],
+  "alt": "Grafik mit 6 Tipps für ein weißes Gaming-Setup",
+  "punkte": [
+   "Weißer Tisch als Basis",
+   "Maus, Tastatur und Headset in Weiß",
+   "Holz und Pflanzen als Kontrast",
+   "Warmes Licht statt kaltem",
+   "Kabel in Weiß oder versteckt",
+   "Lila oder Pink als Akzentfarbe"
+  ]
+ },
+ {
+  "id": "setup-zu-zweit",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "Gaming Setup Ideen",
+  "akzent": "warm",
+  "bildtitel": "Gaming-Setup für zwei: 5 Tipps",
+  "akzentwort": "für zwei:",
+  "titel": "Gaming-Setup für zwei: 5 Tipps zum gemeinsamen Zocken",
+  "beschreibung": "Gaming Setup für zwei Personen: Ein langer Tisch statt zwei kleiner, eigenes Licht für jeden Platz, Headsets statt Lautsprecher, eine gemeinsame Ablage in der Mitte und ein Couch-Platz für Koop-Abende. So zockt ihr zusammen, ohne euch gegenseitig zu stören. Jetzt merken!",
+  "keywords": [
+   "Couple Setup",
+   "Gaming Setup zu zweit",
+   "Koop Gaming",
+   "Gaming Zimmer"
+  ],
+  "alt": "Grafik mit 5 Tipps für ein Gaming-Setup für zwei Personen",
+  "punkte": [
+   "Ein langer Tisch statt zwei kleiner",
+   "Jeder bekommt eigenes Licht",
+   "Headsets statt Lautsprecher",
+   "Gemeinsame Ablage in der Mitte",
+   "Couch-Platz für Koop-Abende"
+  ]
+ },
+ {
+  "id": "poster-aufhaengen",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "pink",
+  "bildtitel": "Poster richtig aufhängen: 6 Tipps",
+  "akzentwort": "Poster",
+  "titel": "Poster richtig aufhängen: 6 Tipps für eine Wand wie im Katalog",
+  "beschreibung": "Poster im Gaming Zimmer aufhängen: Rahmen statt Klebeband, die Mitte etwa auf Augenhöhe, gleiche Abstände bei einer Bilderwand, lieber ein großes Poster statt vieler kleiner, eine Bilderleiste zum Wechseln und LED hinter dem Rahmen für den Glow-Effekt. Jetzt merken!",
+  "keywords": [
+   "Poster aufhängen",
+   "Bilderwand",
+   "Gaming Zimmer Deko",
+   "Wand Deko"
+  ],
+  "alt": "Grafik mit 6 Tipps zum Aufhängen von Postern",
+  "punkte": [
+   "Rahmen statt Klebeband",
+   "Mitte etwa auf Augenhöhe",
+   "Bilderwand mit gleichen Abständen",
+   "Lieber ein großes als viele kleine",
+   "Bilderleiste zum schnellen Wechseln",
+   "LED hinter dem Rahmen für Glow"
+  ]
+ },
+ {
+  "id": "figuren-praesentieren",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "violet",
+  "bildtitel": "Figuren & Sammlerstücke schön zeigen",
+  "akzentwort": "Sammlerstücke",
+  "titel": "Figuren & Sammlerstücke schön präsentieren: 6 Ideen",
+  "beschreibung": "Figuren präsentieren wie im Museum: Eine Vitrine mit Licht, ein Schweberegal über dem Schreibtisch, ein Stufenpodest für mehr Tiefe, eine Acrylbox gegen Staub, Gruppen nach Spiel oder Farbe und ein LED-Spot auf dein Lieblingsstück. So kommt deine Sammlung richtig zur Geltung. Jetzt merken!",
+  "keywords": [
+   "Figuren Regal",
+   "Sammlung präsentieren",
+   "Gaming Deko",
+   "Vitrine"
+  ],
+  "alt": "Grafik mit 6 Ideen zum Präsentieren von Figuren",
+  "punkte": [
+   "Vitrine mit integriertem Licht",
+   "Schweberegal über dem Schreibtisch",
+   "Stufenpodest für mehr Tiefe",
+   "Staubschutz mit Acrylbox",
+   "Nach Spielen oder Farben gruppieren",
+   "LED-Spot auf das Lieblingsstück"
+  ]
+ },
+ {
+  "id": "teppich",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "cyan",
+  "bildtitel": "Der richtige Teppich fürs Gaming-Zimmer",
+  "akzentwort": "Teppich",
+  "titel": "Der richtige Teppich fürs Gaming-Zimmer: 5 Tipps",
+  "beschreibung": "Teppich fürs Gaming Zimmer: Kurzflor, damit der Stuhl leicht rollt, eine Bodenschutzmatte unter dem Stuhl, dunkle Farben gegen Flecken, ein Teppich unter Bett oder Sofa und die Akzentfarbe deiner Beleuchtung aufgreifen. So wird dein Zimmer gemütlicher und leiser. Jetzt merken!",
+  "keywords": [
+   "Teppich",
+   "Gaming Zimmer Deko",
+   "Bodenschutzmatte",
+   "Zimmer Ideen"
+  ],
+  "alt": "Grafik mit 5 Tipps für den richtigen Teppich im Gaming-Zimmer",
+  "punkte": [
+   "Kurzflor – da rollt der Stuhl leichter",
+   "Bodenschutzmatte unter dem Stuhl",
+   "Dunkle Farben verzeihen Flecken",
+   "Teppich unter Bett oder Sofa legen",
+   "Akzentfarbe vom Licht aufgreifen"
+  ]
+ },
+ {
+  "id": "schlaf-und-gaming",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "neon",
+  "bildtitel": "Schlaf- und Gaming-Zimmer in einem",
+  "akzentwort": "in einem",
+  "titel": "Schlaf- und Gaming-Zimmer in einem: 6 Ideen für erholsame Nächte",
+  "beschreibung": "Schlafzimmer und Gaming Zimmer kombinieren: Bereiche klar trennen, ein Regal als Raumteiler, abends nur warmes Licht, Bildschirme vor dem Schlafen aus, ein Bett mit Stauraum und das Setup nachts mit einem Vorhang verstecken. So zockst du tagsüber und schläfst nachts trotzdem gut. Jetzt merken!",
+  "keywords": [
+   "Schlafzimmer Gaming",
+   "Zimmer kombinieren",
+   "Gaming Zimmer",
+   "Raumteiler"
+  ],
+  "alt": "Grafik mit 6 Ideen für ein kombiniertes Schlaf- und Gaming-Zimmer",
+  "punkte": [
+   "Bereiche klar voneinander trennen",
+   "Regal als Raumteiler nutzen",
+   "Abends nur warmes Licht",
+   "Bildschirme vor dem Schlafen aus",
+   "Bett mit Stauraum darunter",
+   "Setup mit Vorhang verstecken"
+  ]
+ },
+ {
+  "id": "jugendzimmer-umstylen",
+  "etikett": "Zimmer-Ideen",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "pink",
+  "bildtitel": "Vom Jugendzimmer zum Gaming-Zimmer",
+  "akzentwort": "Gaming-Zimmer",
+  "titel": "Vom Jugendzimmer zum Gaming-Zimmer: 6 Schritte zum Umstylen",
+  "beschreibung": "Jugendzimmer zum Gaming Zimmer umgestalten: Eine neue Wandfarbe als Startschuss, LED-Streifen für Atmosphäre, ein Gaming-Schreibtisch, ein Sitzsack, Poster deiner Lieblingsspiele und ein Regal für Spiele und Figuren. So wird aus dem alten Kinderzimmer ein echtes Zockerzimmer. Jetzt merken!",
+  "keywords": [
+   "Jugendzimmer",
+   "Zimmer umgestalten",
+   "Gaming Zimmer",
+   "Teenager Zimmer"
+  ],
+  "alt": "Grafik mit 6 Schritten vom Jugendzimmer zum Gaming-Zimmer",
+  "punkte": [
+   "Neue Wandfarbe als Startschuss",
+   "LED-Streifen für die Atmosphäre",
+   "Gaming-Schreibtisch statt Lerntisch",
+   "Sitzsack für entspannte Runden",
+   "Poster deiner Lieblingsspiele",
+   "Regal für Spiele und Figuren"
+  ]
+ },
+ {
+  "id": "wandfarben",
+  "etikett": "Deko",
+  "pinnwand": "Gaming Zimmer Deko",
+  "akzent": "violet",
+  "bildtitel": "Die besten Wandfarben fürs Gaming-Zimmer",
+  "akzentwort": "Wandfarben",
+  "titel": "Die besten Wandfarben fürs Gaming-Zimmer – und wie sie wirken",
+  "beschreibung": "Welche Wandfarbe passt ins Gaming Zimmer? Anthrazit wirkt modern und lässt LED-Licht strahlen, Dunkelblau ist ruhig, Salbeigrün entspannt, Hellgrau ist vielseitig und Weiß macht kleine Räume größer. Finde die passende Farbe für dein Zimmer – und merk dir den Pin für die nächste Renovierung!",
+  "keywords": [
+   "Wandfarbe",
+   "Gaming Zimmer",
+   "Zimmer streichen",
+   "Farbideen"
+  ],
+  "alt": "Farbübersicht mit fünf Wandfarben für das Gaming-Zimmer",
+  "farben": [
+   {
+    "name": "Anthrazit",
+    "text": "Modern – LED-Licht strahlt besonders",
+    "farben": [
+     [
+      55,
+      58,
+      64
+     ],
+     [
+      85,
+      88,
+      96
+     ],
+     [
+      30,
+      32,
+      36
+     ]
+    ]
+   },
+   {
+    "name": "Dunkelblau",
+    "text": "Ruhig und edel, perfekt zum Abschalten",
+    "farben": [
+     [
+      25,
+      40,
+      85
+     ],
+     [
+      50,
+      75,
+      140
+     ],
+     [
+      15,
+      22,
+      48
+     ]
+    ]
+   },
+   {
+    "name": "Salbeigrün",
+    "text": "Entspannt und natürlich, passt zu Holz",
+    "farben": [
+     [
+      150,
+      170,
+      140
+     ],
+     [
+      185,
+      200,
+      175
+     ],
+     [
+      100,
+      120,
+      95
+     ]
+    ]
+   },
+   {
+    "name": "Hellgrau",
+    "text": "Vielseitig – passt zu jeder Lichtfarbe",
+    "farben": [
+     [
+      200,
+      202,
+      206
+     ],
+     [
+      225,
+      226,
+      229
+     ],
+     [
+      160,
+      162,
+      168
+     ]
+    ]
+   },
+   {
+    "name": "Weiß",
+    "text": "Macht kleine Räume größer und heller",
+    "farben": [
+     [
+      245,
+      245,
+      247
+     ],
+     [
+      255,
+      255,
+      255
+     ],
+     [
+      215,
+      215,
+      220
+     ]
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kabel-unsichtbar",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "cyan",
+  "bildtitel": "Kabel unsichtbar machen: 6 Wege",
+  "akzentwort": "unsichtbar",
+  "titel": "Kabel unsichtbar machen: 6 Wege für ein cleanes Setup",
+  "beschreibung": "Kabel verstecken leicht gemacht: Einen Kabelkanal an der Wand überstreichen, eine Kabelwanne unter der Tischplatte, ein Kabelschlauch am Tischbein, Klebeclips unter der Platte, die Steckdosenleiste in einer Kabelbox und eine kabellose Ladestation. So verschwindet der Kabelsalat komplett. Jetzt merken!",
+  "keywords": [
+   "Kabel verstecken",
+   "Kabelmanagement",
+   "Clean Setup",
+   "Schreibtisch Organisation"
+  ],
+  "alt": "Grafik mit 6 Wegen, Kabel unsichtbar zu machen",
+  "punkte": [
+   "Kabelkanal an der Wand überstreichen",
+   "Kabelwanne unter der Tischplatte",
+   "Kabelschlauch am Tischbein",
+   "Klebeclips unter der Platte",
+   "Steckdosenleiste in einer Kabelbox",
+   "Kabellose Ladestation nutzen"
+  ]
+ },
+ {
+  "id": "lernen-und-zocken",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "warm",
+  "bildtitel": "Ein Schreibtisch zum Lernen und Zocken",
+  "akzentwort": "Lernen",
+  "titel": "Ein Schreibtisch zum Lernen und Zocken: 6 Ideen für beides",
+  "beschreibung": "Schreibtisch für Schule, Ausbildung und Gaming: Arbeits- und Spielbereich trennen, ein Laptop-Ständer, ein Organizer für Unterlagen, eine helle Schreibtischlampe, ein Ablagefach für Hefte und eine Licht-Szene zum Umschalten. So konzentrierst du dich beim Lernen und entspannst beim Zocken. Jetzt merken!",
+  "keywords": [
+   "Schreibtisch Ideen",
+   "Lernplatz",
+   "Gaming Schreibtisch",
+   "Schreibtisch Organisation"
+  ],
+  "alt": "Grafik mit 6 Ideen für einen Schreibtisch zum Lernen und Zocken",
+  "punkte": [
+   "Arbeits- und Spielbereich trennen",
+   "Laptop-Ständer für die Ausbildung",
+   "Organizer für Unterlagen",
+   "Helle Schreibtischlampe",
+   "Ablagefach für Hefte und Ordner",
+   "Licht-Szene zum Umschalten"
+  ]
+ },
+ {
+  "id": "stauraum-schreibtisch",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "violet",
+  "bildtitel": "Stauraum unter dem Schreibtisch: 5 Ideen",
+  "akzentwort": "Stauraum",
+  "titel": "Stauraum unter dem Schreibtisch: 5 Ideen für mehr Ordnung",
+  "beschreibung": "Mehr Stauraum am Schreibtisch: Ein Rollcontainer mit Schubladen, ein Hängeregal unter der Platte, eine PC-Halterung unter dem Tisch, eine Fußstütze mit Stauraum und ein Schubladen-Einsatz zum Nachrüsten. So bleibt die Tischplatte frei und alles hat seinen Platz. Jetzt merken!",
+  "keywords": [
+   "Stauraum",
+   "Schreibtisch Organisation",
+   "Ordnung",
+   "Gaming Schreibtisch"
+  ],
+  "alt": "Grafik mit 5 Ideen für Stauraum unter dem Schreibtisch",
+  "punkte": [
+   "Rollcontainer mit Schubladen",
+   "Hängeregal unter der Platte",
+   "PC-Halterung unter dem Tisch",
+   "Fußstütze mit Stauraum",
+   "Schubladen-Einsatz zum Nachrüsten"
+  ]
+ },
+ {
+  "id": "aufraeum-routine",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "neon",
+  "bildtitel": "Aufräumen in 5 Minuten: die Abend-Routine",
+  "akzentwort": "Aufräumen",
+  "titel": "5-Minuten-Aufräumroutine fürs Gaming-Setup – jeden Abend",
+  "beschreibung": "Aufräumen in 5 Minuten: Tassen und Teller raus, Kabel zurück an ihren Platz, den Tisch kurz abwischen, Controller und Headset laden und den Müll direkt wegbringen. Mit dieser kleinen Routine jeden Abend bleibt dein Setup dauerhaft sauber und startklar. Jetzt merken!",
+  "keywords": [
+   "Aufräumen",
+   "Ordnung Schreibtisch",
+   "Gaming Setup",
+   "Routine"
+  ],
+  "alt": "Checkliste für eine 5-Minuten-Aufräumroutine am Gaming-Setup",
+  "punkte": [
+   "Tassen und Teller raus",
+   "Kabel zurück an ihren Platz",
+   "Tisch kurz abwischen",
+   "Controller und Headset laden",
+   "Müll direkt wegbringen"
+  ]
+ },
+ {
+  "id": "peripherie-pflege",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "cyan",
+  "bildtitel": "Tastatur & Maus sauber halten: 5 Tipps",
+  "akzentwort": "sauber",
+  "titel": "Tastatur & Maus sauber halten: 5 einfache Pflege-Tipps",
+  "beschreibung": "Gaming Tastatur und Maus reinigen: Krümel mit Druckluft entfernen, alles mit einem Mikrofasertuch abwischen, Keycaps abziehen und waschen, die Mausfüße auf Abnutzung prüfen und das Mauspad regelmäßig waschen. So bleibt deine Ausrüstung lange wie neu. Jetzt merken!",
+  "keywords": [
+   "Tastatur reinigen",
+   "Maus reinigen",
+   "Gaming Zubehör",
+   "Pflege Tipps"
+  ],
+  "alt": "Grafik mit 5 Tipps zur Pflege von Tastatur und Maus",
+  "punkte": [
+   "Krümel mit Druckluft entfernen",
+   "Mit Mikrofasertuch abwischen",
+   "Keycaps abziehen und waschen",
+   "Mausfüße auf Abnutzung prüfen",
+   "Mauspad regelmäßig waschen"
+  ]
+ },
+ {
+  "id": "headset-aufbewahren",
+  "etikett": "Schreibtisch",
+  "pinnwand": "Schreibtisch Organisation",
+  "akzent": "pink",
+  "bildtitel": "Headset aufbewahren: 5 Ideen",
+  "akzentwort": "Headset",
+  "titel": "Headset aufbewahren: 5 platzsparende Ideen für dein Setup",
+  "beschreibung": "Wohin mit dem Headset? Ein Headset-Ständer mit USB-Anschlüssen, ein Haken unter der Tischplatte, ein Wandhalter neben dem Monitor, ein Halter am Monitorarm oder ein Magnet-Haken am PC-Gehäuse. So liegt dein Headset nie wieder im Weg herum. Jetzt merken!",
+  "keywords": [
+   "Headset Halter",
+   "Headset Ständer",
+   "Schreibtisch Organisation",
+   "Gaming Setup"
+  ],
+  "alt": "Grafik mit 5 Ideen zur Aufbewahrung eines Headsets",
+  "punkte": [
+   "Headset-Ständer mit USB-Anschlüssen",
+   "Haken unter der Tischplatte",
+   "Wandhalter neben dem Monitor",
+   "Halter am Monitorarm",
+   "Magnet-Haken am PC-Gehäuse"
+  ]
+ }
+]

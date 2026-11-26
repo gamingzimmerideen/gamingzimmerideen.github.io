@@ -1,0 +1,11 @@
+{
+  "marke": {
+    "name": "Gaming Zimmer Ideen",
+    "handle": "@gamingzimmer_ideen"
+  },
+  "bild_basis_url": "https://gamingzimmerideen.github.io/wochen/{start}/bilder/",
+  "pins_pro_tag": 2,
+  "uhrzeiten_lokal": ["12:00", "20:00"],
+  "zeitzone": "Europe/Berlin",
+  "standard_link": ""
+}
