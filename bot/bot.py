@@ -152,7 +152,7 @@ def main():
             "zeit_lokal": f"{WOCHENTAGE[tag.weekday()]} {tag.strftime('%d.%m.')} {uhrzeit}",
             "zeit_utc": zu_utc(tag, uhrzeit, config["zeitzone"]),
             "keywords": ", ".join(idee.get("keywords", [])),
-            "link": idee.get("link", config.get("standard_link", "")),
+            "link": idee.get("link") or config.get("seiten_basis_url", "").format(id=idee["id"]) or config.get("standard_link", ""),
             "alt": idee.get("alt", ""),
         })
         print(f"  {tag} {uhrzeit}  {idee['pinnwand']:<30}  {idee['titel']}")
@@ -174,8 +174,7 @@ def main():
 
     print(f"\nFertig: {len(eintraege)} Pins in {ziel}")
     print("Nächste Schritte:")
-    print(f"  1. Bilder aus {ziel / 'bilder'} in den Ordner 'pins' der Webseite hochladen")
-    print("  2. pinterest_upload.csv bei Pinterest hochladen (Einstellungen -> Inhalte importieren)")
+    print("  pinterest_upload.csv bei Pinterest hochladen (Einstellungen -> Inhalte importieren)")
 
 
 if __name__ == "__main__":
