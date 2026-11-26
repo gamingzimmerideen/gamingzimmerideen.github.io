@@ -60,17 +60,22 @@ def zu_utc(tag, uhrzeit, zonenname):
 
 
 def waehle_ideen(ideen, benutzt, anzahl):
-    """Nimmt unbenutzte Ideen und vermeidet dieselbe Pinnwand zweimal hintereinander."""
+    """Nimmt unbenutzte Ideen, verteilt sie gleichmäßig auf alle Pinnwände
+    und vermeidet dieselbe Pinnwand zweimal hintereinander."""
     offen = [i for i in ideen if i["id"] not in benutzt]
     if len(offen) < anzahl:
         print(f"Achtung: nur noch {len(offen)} neue Ideen übrig, gebraucht werden {anzahl}.")
         anzahl = len(offen)
-    auswahl = []
+    auswahl, zaehler = [], {}
     while len(auswahl) < anzahl:
         letzte = auswahl[-1]["pinnwand"] if auswahl else None
-        kandidat = next((i for i in offen if i["pinnwand"] != letzte), offen[0])
+        kandidaten = [i for i in offen if i["pinnwand"] != letzte] or offen
+        kandidat = min(kandidaten, key=lambda i: zaehler.get(i["pinnwand"], 0))
         offen.remove(kandidat)
         auswahl.append(kandidat)
+        zaehler[kandidat["pinnwand"]] = zaehler.get(kandidat["pinnwand"], 0) + 1
+    if len(offen) < anzahl:
+        print(f"Hinweis: danach sind nur noch {len(offen)} Ideen übrig – bald neue Ideen ergänzen.")
     return auswahl
 
 
